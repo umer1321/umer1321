@@ -3,8 +3,6 @@
 🎯   Aspiring Software Engineer   | 💻 Web & Mobile Developer | 🤖 AI & ML Enthusiast  
 🚀 Passionate about Learning & Building 
 
-![Profile views](https://komarev.com/ghpvc/?username=umer1321&color=blue)  
-
 
  🔥 About Me 
 - 🌱 Currently learning   Web Engineering & Advanced Flutter Development  
@@ -90,6 +88,7 @@ NoSQL (Firebase, MongoDB)
 
 ![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=umer1321&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umer1321&layout=compact&theme=radical)
+![Profile views](https://komarev.com/ghpvc/?username=umer1321&color=blue)  
 ---
 
  🏆 Achievements & Activities
