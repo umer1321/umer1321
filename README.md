@@ -1,7 +1,7 @@
  Hi, I'm Umer! 👋 
 
 🎯   Aspiring Software Engineer   | 💻 Web & Mobile Developer | 🤖 AI & ML Enthusiast  
-🚀 Passionate about Learning & Building | 🏆 3rd Place Hackathon @ GIKI 2025  
+🚀 Passionate about Learning & Building 
 
  🔥 About Me 
 - 🌱 Currently learning   Web Engineering & Advanced Flutter Development  
