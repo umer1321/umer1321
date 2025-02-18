@@ -61,10 +61,9 @@
 
 ---
 
- 📈 GitHub Stats 
-![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
+📈 **GitHub Stats**  
+![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=umer1321&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umer1321&layout=compact&theme=radical)
 ---
 
  🏆 Achievements & Activities
