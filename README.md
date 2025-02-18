@@ -46,6 +46,23 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Large Language Models](https://img.shields.io/badge/LLMs-AI%20Tech-blue)
 
+📐 Software Engineering & Design
+✅ Software Requirement Engineering
+
+Use Case Modeling
+UML Diagrams (Class, Sequence, Activity)
+Functional & Non-Functional Requirements
+
+✅ Software Design & Architecture
+MVC, MVVM Design Patterns
+Microservices Architecture
+API Development (REST APIs)
+✅ Database Management
+SQL (MySQL, PostgreSQL)
+NoSQL (Firebase, MongoDB)
+
+📈 GitHub Stats
+
    Development Tools  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
@@ -61,7 +78,7 @@
 
 ---
 
-📈 **GitHub Stats**  
+📈GitHub Stats 
 ![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=umer1321&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umer1321&layout=compact&theme=radical)
 ---
