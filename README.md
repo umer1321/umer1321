@@ -47,17 +47,22 @@
 ![Large Language Models](https://img.shields.io/badge/LLMs-AI%20Tech-blue)
 
 📐 Software Engineering & Design
+
 ✅ Software Requirement Engineering
 
 Use Case Modeling
+
 UML Diagrams (Class, Sequence, Activity)
 Functional & Non-Functional Requirements
 
 ✅ Software Design & Architecture
+
 MVC, MVVM Design Patterns
 Microservices Architecture
 API Development (REST APIs)
+
 ✅ Database Management
+
 SQL (MySQL, PostgreSQL)
 NoSQL (Firebase, MongoDB)
 
@@ -79,6 +84,7 @@ NoSQL (Firebase, MongoDB)
 ---
 
 📈GitHub Stats 
+
 ![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=umer1321&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umer1321&layout=compact&theme=radical)
 ---
@@ -92,6 +98,7 @@ NoSQL (Firebase, MongoDB)
 ---
 
  📌 Featured Projects 
+ 
 🚧   Build Buddy   – Mobile app for home construction management  
 🩺   AI-based Medical Diagnosis System   – AI-powered disease detection using ML  
 🔐   Cybersecurity Threat Detector   – Detects vulnerabilities using AI & NLP  
