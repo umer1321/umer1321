@@ -46,14 +46,14 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Large Language Models](https://img.shields.io/badge/LLMs-AI%20Tech-blue)
 
-###   Development Tools  
+   Development Tools  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 
-###   Testing & API Tools  
+   Testing & API Tools  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
@@ -61,13 +61,13 @@
 
 ---
 
-## 📈 GitHub Stats 
+ 📈 GitHub Stats 
 ![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ---
 
-## 🏆 Achievements & Activities
+ 🏆 Achievements & Activities
 - 🥇   3rd Place in Hackathon @ GIKI 2025  
 - 🎖   Multiple Certificates of Appreciation   (Daira’22, Daira’23, Daira’24, ICIT CONFERENCE’23, ICIT CONFERENCE’24)
 - 👨‍🏫   Teaching Assistant   for ICT & Programming Fundamentals (Taught 250+ students)
@@ -75,7 +75,7 @@
 
 ---
 
-## 📌 Featured Projects 
+ 📌 Featured Projects 
 🚧   Build Buddy   – Mobile app for home construction management  
 🩺   AI-based Medical Diagnosis System   – AI-powered disease detection using ML  
 🔐   Cybersecurity Threat Detector   – Detects vulnerabilities using AI & NLP  
@@ -86,7 +86,7 @@
 
 ---
 
-## 🌎 Connect with Me 
+ 🌎 Connect with Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-umer-114ay938/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
