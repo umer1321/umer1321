@@ -3,6 +3,9 @@
 🎯   Aspiring Software Engineer   | 💻 Web & Mobile Developer | 🤖 AI & ML Enthusiast  
 🚀 Passionate about Learning & Building 
 
+![Profile views](https://komarev.com/ghpvc/?username=umer1321&color=blue)  
+
+
  🔥 About Me 
 - 🌱 Currently learning   Web Engineering & Advanced Flutter Development  
 - 🔧 Working on my   Final Year Project: Build Buddy   – A mobile app for home construction management  
